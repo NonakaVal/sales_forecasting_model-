@@ -1,5 +1,5 @@
 
-#### not finished yet
+### not finished yet
 
 dataset Information
 
@@ -30,3 +30,7 @@ profile, or period.
 - **Weekend**: A binary variable indicating whether the visit happened on a weekend.
 - **Revenue**: A binary variable indicating whether the session resulted in a transaction (revenue).
 	
+### Documentação oficial do scikit-learn 
+
+- https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
