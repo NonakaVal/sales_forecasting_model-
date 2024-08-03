@@ -7,6 +7,11 @@
 <img src="https://i.imgur.com/ga0T5CL.png" alt="revenuebyweeddaytype" width="600" height="400">
 <img src="https://i.imgur.com/TzzVh9o.png" alt="traffictype" width="900" height="500">
 
+## Models Training and Tests
+scikit-learn documentation
+- https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
 ## dataset Information
 
 The [dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) consists of feature vectors belonging to 12,330 sessions. 
@@ -38,7 +43,6 @@ profile, or period.
 	
 ### Documentação oficial do scikit-learn
 
-- https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
-- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
 
 - 
