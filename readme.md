@@ -57,7 +57,6 @@ profile, or period.
 - **Weekend**: A binary variable indicating whether the visit happened on a weekend.
 - **Revenue**: A binary variable indicating whether the session resulted in a transaction (revenue).
 	
-### Documentação oficial do scikit-learn
 
 
 
