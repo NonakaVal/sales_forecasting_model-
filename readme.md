@@ -1,5 +1,11 @@
-## Forecasting 
+## Sales Forecasting Models
 
+### Exploratory data analysis and Charts
+
+<img src="https://i.imgur.com/DH1fl1U.png" alt="visitortypespiechart" width="400" height="400">
+<img src="https://i.imgur.com/8lVPBg2.png" alt="revenuebyVisitortype" width="800" height="600">
+<img src="https://i.imgur.com/ga0T5CL.png" alt="revenuebyweeddaytype" width="800" height="600">
+<img src="https://i.imgur.com/TzzVh9o.png" alt="traffictype" width="600" height="600">
 
 ## dataset Information
 
