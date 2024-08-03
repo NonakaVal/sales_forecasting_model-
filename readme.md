@@ -37,7 +37,6 @@ would belong to a different user in a 1-year period to avoid
 any tendency to a specific campaign, special day, user
 profile, or period. 
 
-### Variables
 
 - **Administrative**: Number of pages visited by the visitor about account management.
 - **Administrative_Duration**: Total amount of time spent on administrative pages.
