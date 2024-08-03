@@ -1,15 +1,12 @@
+## dataset Information
 
-### not finished yet
-
-dataset Information
-
-https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
-
-The dataset consists of feature vectors belonging to 12,330 sessions. 
+The [dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) consists of feature vectors belonging to 12,330 sessions. 
 The dataset was formed so that each session
 would belong to a different user in a 1-year period to avoid
 any tendency to a specific campaign, special day, user
 profile, or period. 
+
+### Variables
 
 - **Administrative**: Number of pages visited by the visitor about account management.
 - **Administrative_Duration**: Total amount of time spent on administrative pages.
@@ -30,7 +27,9 @@ profile, or period.
 - **Weekend**: A binary variable indicating whether the visit happened on a weekend.
 - **Revenue**: A binary variable indicating whether the session resulted in a transaction (revenue).
 	
-### Documentação oficial do scikit-learn 
+### Documentação oficial do scikit-learn
 
 - https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
+- 
